@@ -20,4 +20,4 @@ Por trás dos panos o que funciona são OBJETOS como protótipos que possuem um 
 adicionar um '_' antes do nome do atributo. Isso porque ao utilizarmos a 
 propriedade estremos fazendo menção a variavel saldo  e não to this._saldo;<br>
 ![1](https://github.com/user-attachments/assets/d9b9f8c8-f9a6-459d-a8bb-a2b479926445)
- ############################## ############################## Fim arquivo 'OrientacaoObjetos'##############################  ##############################
+  ############################## Fim arquivo 'OrientacaoObjetos'############################## 
