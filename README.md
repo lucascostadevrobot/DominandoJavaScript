@@ -1,6 +1,6 @@
 # 🥇 DominandoJavaScript é um repositório criado para versionamento das minhas atividades realizadas no Bootcamp e Formação TQI FullStack da DIO Pro.
 
-➡️ #Atividade Prática: Arquivo 'OrientacaoObjetos'<br>
+➡️ ##############################Atividade Prática: Arquivo 'OrientacaoObjetos' ##############################<br>
 💻Orientação Objetos com Javascript 💻<br>
 🥇Crie a classe ContaBancaria, que possui os parâmetros agencia, numero, tipo e saldo;<br>
 🥇Dentro de ContaBancaria, construa o getter e o setter de saldo;<br>
@@ -20,3 +20,4 @@ Por trás dos panos o que funciona são OBJETOS como protótipos que possuem um 
 adicionar um '_' antes do nome do atributo. Isso porque ao utilizarmos a 
 propriedade estremos fazendo menção a variavel saldo  e não to this._saldo;<br>
 ![1](https://github.com/user-attachments/assets/d9b9f8c8-f9a6-459d-a8bb-a2b479926445)
+ ############################## ############################## Fim arquivo 'OrientacaoObjetos'##############################  ##############################
